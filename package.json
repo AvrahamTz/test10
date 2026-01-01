@@ -1,0 +1,28 @@
+{
+  "name": "test10",
+  "version": "1.0.0",
+  "description": "Avraham Zoref\r Galil\r 318406691",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvrahamTz/test10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AvrahamTz/test10/issues"
+  },
+  "homepage": "https://github.com/AvrahamTz/test10#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mysql2": "^3.16.0"
+  }
+}
